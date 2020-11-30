@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
+  title: 'Hey, We are',
   name: 'Kanooni Guide',
   subtitle: 'One stop for all the legal services and solutions',
   cta: 'Know more',
@@ -66,7 +66,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Would you wnat us to work for you? Awsome!!',
+  cta: 'Would you want us to work for you? Awsome!!',
   btn: 'Lets Talk',
   email: 'kanooniguide@gmail.com',
 };
