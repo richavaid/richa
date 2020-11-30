@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Banking and Finance',
     info: 'Banking and finance is one of our core and highly recognised areas of expertise.',
     info2: 'Our full suite of services range from project finance, trade and export finance, working capital, acquisition finance, corporate finance, syndicated lending, structured finance, debt capital markets, securitisation, regulatory advice, and product documentation and standardisation.',
-    url: '',
+   
     
   },
   {
@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'Insurance',
     info: 'Kanooni Guide has a market leading insurance/reinsurance sector practice on both the contentious and non-contentious side..',
     info2: 'On the non-contentious front, we provide assistance with transactional work whereas in relation to contentious work, the Firm has the ability to handle and advise on claims  including Financial & Specialty Lines (Tech E&O; Professional Indemnity; Directors & Officers; Media Liability; Cyber-risks ',
-    url: '',
+    
     
   },
   {
@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'Dispute Resolution - Arbitration & Litigation',
     info: 'we work in almost every area of dispute resolution',
     info2: 'Our dispute resolution team regularly advise clients on a variety of contentious matters involving commercial contracts, civil disputes, shareholders’ disputes, enforcement of security, recovery of debts, corporate and securities law, competition law, labour and employment matters, real estate issues and economic offences.',
-    url: '',
+   
   
   },
   {
@@ -59,7 +59,7 @@ export const projectsData = [
     title: 'Corporate and Commercial',
     info: ' Kannoni Guide key practice areas is corporate and commercial, which extends to various sectors of the economy and wide array of business and transactional matters.',
     info2: 'The Firm’s experience and expertise in providing advice on corporate and commercial contracts and joint ventures, inbound and outbound investment, regulatory and compliance, corporate governance, operational and structuring matters across a broad range of sectors is well recognised..',
-    url: '',
+   
   
   },
 ];
@@ -68,7 +68,7 @@ export const projectsData = [
 export const contactData = {
   cta: 'Would you wnat us to work for you? Awsome!!',
   btn: 'Lets Talk',
-  email: 'mailto:kanooniguide@gmail,com',
+  email: 'kanooniguide@gmail.com',
 };
 
 // FOOTER DATA
