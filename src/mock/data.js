@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'about.png',
+  img: 'about_circle.png',
   paragraphOne: 'Kanooni Guide was started 5 years back with the sole aim of providing legal services in a very efficient way. We help by simplifying legal business-related matters and commited in helping individuals, startups, small business owners.',
   paragraphTwo: 'Our mission is to offer affordable, quick legal services to our clients. In these 5 years we have helped many by offering broad spectrum of services which includes Co-operates, Mergers and Acqusition, Financial services, Disputes, Capital market, Tax and Reasl Estate..',
   paragraphThree: 'With us you will get th best legal solution which will help you to grow in fast paced world.',
