@@ -45,7 +45,7 @@ const Projects = () => {
                       <div>
                         <p>
                           {info ||
-                            'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                            'Kanooni Guide was started 5 years back with the sole aim of providing legal services in a very efficient way. We help by simplifying legal business-related matters and commited in helping individuals, startups, small business owners.'}
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
@@ -55,7 +55,7 @@ const Projects = () => {
                         className="cta-btn cta-btn--hero"
                         href={url || '#!'}
                       >
-                        See Live
+                        
                       </a>
 
                       {repo && (
