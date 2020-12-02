@@ -2,8 +2,8 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Hey, We are', // e.g: 'Name | Developer'
-  lang: 'Kanooni Guide', // e.g: en, es, fr, jp
+  title: 'Kanooni Guide', // e.g: 'Name | Developer'
+  lang: 'IN', // e.g: en, es, fr, jp
   description: 'Once stop for all the legal services and solutions', // e.g: Welcome to my website
 };
 
